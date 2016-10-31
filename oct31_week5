@@ -1,0 +1,68 @@
+October 25
+------------
+
+(no review)
+
+- should have already started working on the essay (yeah i probobly should)
+
+Cotter's point - interconnection between memory and problem solving
+- cogsci has the endevour of addressing this major interconnection
+
+- the core of cognition is intelligence (if we can do this we achieve the naturalistic imperitive)
+
+Intelligence = the capacity to being a general problem solver(DESIGN - if we created a autonomas problem solving artifical int)
+    - general problem solver is an entity or system is something that can solve a wide variety of problems in a wide variey of domains(emphasis on wide)
+    - Newel and Simon1(1955 a general problem solver)(GPS)(held in high reguard for the "Gold Standard" for what it means to do CogSci)
+        - had to do the generalizing of what it means to solve a problem
+            PROBLEMS (4 COMPONENTS)
+                1. Initial state is DIFFERENT from the 2. goal state (imagine two circles far from one another)(thirsty vs not thirsty)
+                3. operators (operations you can perform to change states)(now imagine a (n-tree) with each action being walking/drinking/etc)(abstract problem space)
+                4. Path Constraints (possible solutions but are detrimental to things you need to solve)(are you gonna kill someone for water?)(cutting off your leg to kill pain)
+
+        - the more of a general problem solver you are the more apparent detrimental path constraints are
+- a general problem solver is any path that gets to the goal state while obeying path constraints
+- a problem solving method is any tech for finding a problem solution
+- the issue is that we can see the n-tree but we cannot see the whole tree from a birds eye view, instead we ARE the nodes
+- Holyoak - gives a concrete example for counting the number of pathways is F^D (D = number of steps(60), F = nodes at a certain spot(30)) 
+    - example he gives is a game of chess, on average you have about 30 moves you can perform, and on average 60 turns in a game
+    - somehow as humans we can ignore unimportant things and just focus on the 4/5 moves we can make
+
+Distigishing between algorithms and heuristics
+
+algorithm = a problem solving method gaurenteed to generate a solution or prove its impossible(certainty is attatched to it)
+    - algorithm for determining amount of people in this room(counting)
+    - often algs issue because theres too much in the search space "Practically Impossible"
+heuristic = a problem solving method that increases the probobability of completing a goal (no gaurentees)
+    - chess strategies (getting queen out / defending king)(can still lose even practicing heuristic)
+
+- live in a society where rational = logical(yet then this must be false there for ration!=logical)(since its nearly impossible for us as human beings to use algorithms)
+- also rational != illogical
+
+rationality is about when/where/what degree to be logical
+our brains are constatnly using heuristics because we would not be able to do the other
+    - the ISSUE with heuristic is that it creates a bias (ie in smash when you are playing from the centre you can abuse that as anohter player or techchasing correctly)
+    - essay note (look up relating heuristics and algorithms in relation to game shows)
+
+Two kinds of Heurstics
+    1. Avaliability Heuristics - easier it is to remember something similar to x (or imagine x) the MORE proboable x is (when tom will spin as luigi to crouch cancel it)
+    2. Reprosentetivness? - how categorical/prototypical the event is the MORE probabale x is(a situation you can see from VODs and other games even if its never happened)(plane crash)
+
+The issues with GPS
+2 Flawed assumptions
+    1. All problems are essentially the same
+    2. Problem formulation is a rather TRIVIAL affair
+    - Newel and Simon are falling prey to "because we have a category means we have an essance)
+    - problem solving methods seem to be indepence and interference
+        - independance = swiming does not help with cog250
+        - golf/hockey story = similar actions but the golf swing and the hockey swing are radically different
+    - also fell prey to the differences between well definied vs ill defined
+        - how a problem is how you set it up
+        - a well defined problem is that you set it up WELL ENOUGH to apply methods to make it successful manor(multiplication)
+        - ill defined state is that nothing can be clear to you so you dont know what methods to use (yet this is how most of the world works)
+            - it LACKS good problem formulation(its the reason he does no slides)("Take good notes")(cant use synonems to relevant)
+            - conversations with people
+            - since most things are ill defined problems which is why (2) is such a detrimental thing
+            - problem formulation is the MOST CRUCIAL for this state
+
+Problem Formulation = the missing element, where much of the zeroing on relevant information (helps avoid explostion)
+    - also deals with ill definededness

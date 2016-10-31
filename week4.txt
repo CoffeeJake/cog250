@@ -1,0 +1,105 @@
+Week 5 of Cog250 Oct 3, 2016
+
+Last Week:
+
+
+MICRO THEORY THEORY(MTT) aka the "Theory Theory":
+    ADVANTAGES:
+        - helps with many things that both prototype/classical theory had trouble with
+        - captures logical relations that are found in the classical theory (yet not all relations are logical relations)
+            - different kinds of relations, structured relations
+            - a theory is NOT a definition 
+        - explains things that the prototype theory got famous off of (fuzzy prototypes)
+            - theories apply to the world in a fuzzy manner 
+            - not all evidence is good evidence is for a theory (how good evidence is in supporting a theory)
+        - does more than the theories before it (PT/classical)
+            - an issue is that issues are either abstract or concrete
+            - MTT has an answer
+                2. explanetory relations ("because")
+                1. things related by an explination
+        - when attempting to combine theories, you must actually restructure theories to go together 
+            - like chemistry when combining molecules (hydrogen / oxygen -> h20)
+            - like how "pet fish" is different from "pet" / "fish"
+
+Mary Douglas: Purity and Danger(1921 - 2007)
+    - researcher on catagorization
+    - finds out if something is impure or not
+    - people disgusted by certain things even without logic just because of "codes"
+    - ex. coats of a serial killer vs pen used by einstein
+    - we eat some mammels but not others (ie dogs vs chickens)
+    - people were trying to look at body morphology (the look of an animal) to two other things
+        - Locamotion
+        - Habitat (animal that lives in the sea SHOULD have fins / scales, not walk around and be spiky) 
+            - why is this important
+            - it is a microtheory used to explain how creatures behave
+            - when its violated it fucks with the mind
+            - is not convergent with classical / PT theories 
+    - Clean things vs unclean things (like chinese meat vs every other meat)
+    - uncanny valley is a good way to example because things that arent us but are nearly us (intercategorical)
+    - When body morphology doesn't line up it frustrates out ability to categorize
+
+- Human brains and having intelligence DOES NOT mean they have the ability to explai (theory is that no human brain can solve)
+- 1. Epistemic Boudedness
+    - cultural / historical VS biolocial boudedness 
+    - we are not sure which of these it points to 
+- 2. Choose another basic process (what we are talking about today)
+    - should have started with memory instead of categories
+- "Relationship between instances" is analagous to "theory and data"
+- underdetermination of a thoery by its evidence (Reichenbach)
+    - for every data set there is an infinite amount of functions to preform on it
+    - of all of the conecpts we COULD have we select 1/2 that we find important in MTT
+    - another issue of selection bias
+    - the processes of selection has been unexplained so it cannot be a reliable theory
+
+~~~~~~~~~ Break ~~~~~~~~~
+MEMORY
+------
+
+- memory is more basic than categorization
+
+Common Sense Theroy (Eysenl and Keanne 1990)
+    - Spatial Metephor for Memory
+    - Memories are stable objects in a stable location (in a large abstract space) 
+    - remembering = retrieve an object, and return it to consiousness
+    - Nermonic Technique = visualize a room and see different topics/ideas at different place in the roo
+        - powerful for training memory 
+        - does not give power to EXPLAIN memory #it just seems like we can't explain anything
+        - just because a metephor can TRAIN does not mean it can EXPLAIN ie Nermonic Tech
+
+Carmicheal, Hogan, and Wrlter (1932)
+    - this psych test has stood the test of time
+    - (shown to people)eyeglass O---O dumbell(shown to others)
+    - will return two different drawnings close to what was shown but more like the word they were told
+        - memory is merging the drawing and the word
+        - memory is RECONSTRUCTE
+        - intead of carrying everything, it just takes peices that it needs to fit in to situations(adaptive!)
+
+Signal Detection Theory
+    - several words used in this theory
+    - signal = information relevant to you
+    - noise = information irrelvant to you
+        - now the issue is that sometimes we dont know what is noise vs signal
+        - pretend to be a deer, now you hear a noise in the bushes...lepord or wind?
+        - an idea is to always assume either or...like always assuming lepord means always running away
+
+Loftus and Zanni 1974
+    - found out they can implement memories on children
+    - experiment: showed a video of a car accident
+    - asked 1) did you see THE broken headlight VS 2) did you see A broken headlight
+        - much more likley to answer yes to (1) than compared to (2)
+        - shows the ability to implement memories
+    - 1) how fast was the car going when it smashed the bike vs 2) how fast was the car going when it collided with bike
+        - (1) said car was "GOING REALLY FAST" compared to (2) car wasn't going that fast
+
+Putnam (1979)
+    - replicated experiment above (Loftus/Zani)
+    - HYPNOSIS did not increase people's memory
+    - in fact even more people were affected by the influence
+
+Working Memory(WM) vs Long term Memory(LT)
+    - working memory is functional (but when asked where the window  was in our room we only recall important details)
+    - WM is also a bottleneck because it controlls the flow of information
+    - one theory is called the limited capcaity mode (holding things on a countertop)
+    - chunking create important relevant things to your brain and remembers them
+    - Working Memory is a relevance filter
+    - just proves that memory is really reconstructive in nature
