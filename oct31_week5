@@ -66,3 +66,67 @@ The issues with GPS
 
 Problem Formulation = the missing element, where much of the zeroing on relevant information (helps avoid explostion)
     - also deals with ill definededness
+
+Kaplan and Simon (same simon)(1990) "Mutilated Chessboard" - title is Insight(how an unsolvable problem becomes solvable)
+    - took a chess board and removed the top right/bottom left = both white squares, therefore impossible to cover with 31 dominos
+    - depends on how you formulate the issue, one way leads to explosion the other leads to alg proofs to disprove(it is recursive and self correcting)
+    - Intelligence => GPS => AFM problem solvers => Problem Formulation => Insight
+    - the goal of intelligence is to avoid explosions
+     
+2 Core traditions talking about Insight
+    1. using inference to search through a problem space(moving from one place to another)
+    2. Gestalt - think of insight as perception than action
+
+    Gestalt vs Simon
+(Thorrdyke 1898) - (used to explain the Gestalt)
+    - used cat and food in a box, food outisde box and needed to press a button to escpe
+    - cat never really got it, it took a while
+
+Gestalt (Kohler)
+    - Saltan (a chimp), was in a cage and could play with boxes and there were bannans hanging above him
+    - started stacking boxes to get bananas
+    3 Problems
+        1. no good theory
+        2. not as rigourasly controlled as Thorrdyke's(there were better experiments later)
+        3. he was german(issue was that it occured during ww1/ww2)(he was actually also a spy (google this))
+    - 9 dot question where you had to draw a single line to draw everything, so it creates a fake bias(think of a square)(had to BREAK the fixation)
+
+Weisberg and Alba (1981) - Work on the 9 Dot problem
+    - would give them the problem
+    - gave a clue "think outside the box"
+    - but it didnt actually work(sorta renders the saying as unimportant)
+    - trying to prove that there is NO insight
+    - they are confusing necessity and sufficency
+    - Single Diffiulty Hypothesis - multiple things make the 9 dot problem hard to solve
+    - what did work was drawing a physical box around the 9 dots
+    - there needs to be a distinction between declarative knowledge and procedural knowledge
+        - declarative(propositional) - can declare many things (knowing THAT)(knowing facts)
+        - procedural - knowing how (knowing how to ride a bike)
+
+========= REVIEW ============== (LEARNING GOALS)
+
+- General Problem Solver
+- 4 components of problem solving
+- path constraints
+    - shows that you dont do things detrimental to yourself
+- search space is cognatiority explosive (so big)
+    - "practically impossible"
+- problem solving includes not searching the whole space without killing yourself
+- algs vs heuristics
+- problem with heuristics is that it sometimes hinders us?
+    - yet they are still necessary
+- 2 flawed assumptions of newll and simons failures
+    - 1. "All problems are the same"
+    - 2. "Misconseption that classical was correct"
+- well defined vs ill defined problems
+    - most real world problems are ill defined problems
+    - relevance is needed to avoid exploding
+- power of problem formulation (mutilated chessboard)
+- insight = good problem formulation from bad problem formulation
+- two schools of insight
+    -1. moving through a space (spatial metaphor)(metaphors are often repearted, yet often wrong) SEARCH INFERNECE FRAMEWORK
+    -2. (Gestalt) Insight is something from perception (drawing a box for 9 dot problem)(think outside the box)
+- thought that there was a single issue in the 9 dot problem
+    - yet there are often more than just that
+- insight is more like a skill than beliefs(like swimming or riding a bike)
+
