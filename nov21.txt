@@ -1,0 +1,68 @@
+Gestaltist
+    - Insight is not explained by the current level of machinery
+
+Looking for convergence in Coginative Science
+
+Gick and Holyoak (1980)(find experiments are counter intuitive, ie things are going wrong/werid)
+    - Brain Tumor Example (Dundar Radiation Problem)
+        - SENARIO: person has a brain tumor in the middle of their brain, can kill it but need to use a beam and tear through the brain
+            - Answer 1: is several small low intensity gamma beams that destory the tumor
+            - Answer 2: circular gamma beams (like it goes in a circle) which hits the tumor as it rotates around
+    - get a bunch of people to read a story
+        - the story is about a general who wants to attack a fortress, only 4 direcitons (NSEW), any road he chooses they will lose and be held
+        - so instead they split up and converge on the fortress from each direction
+    - distractor task (adjectives in the story)
+    - then give them this Radiation Problem
+    - the experiment is that some got just the story, some got distractor tasks...then suddenly given the Radiation Problem
+    - ***results was that people who read the story made no difference in their solving of the problem***
+        - these negative results also tries to argue whether humans are rational or not(ie vast majority are irrational)
+
+Lockheart, Lamon, and Gick
+    - Pointed out how experiment above had similarities and differences between Fortress and Radiation
+        - those 2 stories are propositionally similar(forces converging to destory a centeral target)
+        - Fortress task is to read and undersatand an existing solution
+        - Radiation is about figuring out how to solve it
+            - although similar in proposition VERY DIFFERENT in procedure (for solving)
+            - akin to how thinking outside the box did not really help
+            - people said these senarios were "werid"
+
+    - so instead they found a problem where ignorace wouldnt be an issue
+        - "A man from a small town in the USA married 20 different women in the same town, and he did not divorce them, and he broke no laws"
+            - Hes a Clergyman
+        - 2 acceptable meanings for the word "marriage"
+        - we all had the knowledge we just had to SHIFT ATTENTNION from the salient def of marry to the non-salient
+
+    - They presented people with a bunch of sentences to read(most were irrelevant)(one was relevant)(2 forms for the relevance of the sentence)
+        - Declaritive Form: "It made the clergyman happy to marry several people each week"
+        - Puzzle Form: "The man married several people each week because it made him happy" waits for a sec...then the word "clergyman" appears
+            - both essentially do the same thing
+            - in one of them you need to shift attention from Dominant meaning to SubDominant but legitament
+            - 2nd form is proceduarly similar to what you need to do to solve the insight problem, only the 2nd do you need to go through cog operations
+        - Then unexpectedly they are given the multiple marriage problem (see above)
+            - declaritive form does not help people sovle it
+            - puzzle form showed significant facilitation for solving
+        - **convergeing with memory (transfer appropriate processing)**
+
+- When your brain recieves a problem it will look for past FAILED problem attempts (not Success ones)
+    - implements Notice heuristic to change problem formulation when they are in common with problems in your head
+    - Create 2 banks of problems [1. Easily Solvable 2. Impass Problems]- both are analogous to the Mutilated Chessboard
+    - people can solve problems when they see problems that they have failed before vs analogous answers
+    - humble people are more wise, due to humble people are willing to admit to their failures and address them
+
+notice that in both propositional and procedural lanugauge is being used, language is priming insight
+    *** language used per-say is being used to trigger insight *** (counter to verbal overshadowing)
+    - its not langugae per-say that hinders, but instead helps to trigger
+    - processess that are automatic dont allow us to explain things, but insight is de-automizing to allow change bewtween problem fomulation (vauge)
+
+The Return of Wiseberg  (1995)
+    - Vervake disagrees with points, but loves him for advancing science
+    - Highly critical of insight research
+        1. Metcalf and etc, treat insight problems as if they exist (if some state of affairs are JUST inisght problems)(paints them black and white)
+            - points out that this objectivness is a false assumption, "the universe does not have any problems"
+            - Universe just operates, things are not actually a problem...remember that problems dont exsit but only in relation to things in the world
+            - Attempts to change behavior towards events, and pay attention to the meaning given to events in the world
+            - problems WERE insight problems, but once solved are no longer insight problems
+            - Child candy example (2 rows, one is more spaced out) - children pick the 2nd one, because it takes up more space.
+                - we become fixated on the one different variable
+                - but now that we are older we realize we need to look at multivariable
+                - its no longer an insight problem
