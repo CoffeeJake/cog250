@@ -85,3 +85,49 @@ Ren and Others (2010)
 Attention is a complex self organizing process, that has capacity for scaling up and scaling down
 Mindfulness trains this and allows for insight
 Phase-Function fit allow syou to build up and down to solve problems
+
+=== Break ===
+
+(moving into neuroscience)
+Stephon and Dixon (2009)
+    - Self organizing criticality(soc)
+    - order is how do things before predict where things will go 
+    - sand dripping into a container, it will "self organize"
+    - criticality is about when its integrity is threatened, order and structure build, then an avalanche
+    - works with sand example, sand piles up, then avalanches and base gets built, then gets higher
+
+State Space Diagram
+------------------
+- the diagram was different levels, always measuring multiple variables
+- attractor is a repeating pattern
+- stephan and dixon used Takens(1981)
+- had people solving something called the "gear" problem, figure out how gears are shifting
+    - insight is when people just add together the gears
+    - measure when people are looking or looking at them pointing
+    - graph of entrophy and time and how it just goes up and down, but intorducing entrophy actually increases insight
+    - breaking frame, by adding disorder to the picture on the screen
+        - this provoked insight
+        - verbal overshadowing provokes insight
+    - incubation = stop thinking about it and it passes into unconsious (THIS IS WRONG)
+    - incubation does work, only when you are moderatly distracted from the problem, not super distracted, upon returning you can solve it
+
+Network Theory (Graph Theroy) - study of how things are connected
+--------------
+- how computers are connected on the internet
+- how website links are conneted to one another
+- can be used to study many connected systems, many have things in common
+- 3 Types of Networks (same number of nodes, same number of connections)
+    1. Regular network, one node to another, (1 step connection) (High in Resilliancy, Low Efficiency)
+    2. Random Chaotic Network (random, jumbled around) (High efficiency, low resilliancy)
+    3. Small World Network - most networks IRl look like this (high efficiency, high resilliancey)
+
+- People looked at the economics of these networks (efficiency vs stability)
+    - take a single point and count how long it takes to get to different points (Mean Path Distance) - efficiency
+    - fault tolerance - how much damage can a network take while it can still function
+
+Schilling (2005) 
+- Small World is really just regular network with some diagonally drawn paths
+- Insight is sorta like a flash of consiousness, says this is whats happening in brain when you have an insight
+
+Self organizing criticality to Small world network which is inherinetly insight
+- yet nowhere in here can we avoid explosion or relevance
