@@ -26,7 +26,7 @@ Metcalfe and Wiebe 1987 (FEELING OF WARMTH)
 Tausovec (1989, 1994)
 Jousouvec and Bekraceuis (1995)
     - replicated experiement along with recording heart rate
-        - (non insight - slope line going consistantly) vs (insight - curve that geos much faster towards the end)
+        - (non insight - slope line going consistantly) vs (insight - curve that goes much faster towards the end)
 
 Kaplen and Simon (1990) "In Search of Insight"
     - attempting to explain Insight, but not challenged the Search Inference Framework
@@ -34,12 +34,12 @@ Kaplen and Simon (1990) "In Search of Insight"
             - 1. Primary - first you serach here (in the regular rules)
             - 2. Meta - then you serach here (then you searech for problem formulation)
                 - the idea is you use Primary, realize its not working, go to Meta for reforming the problem, then solving back at Primary
-            - INSIGHT IS WHEN YOU SWITCH SPACES, GO BACK, AND THEN SOVLE IT
+            - ***INSIGHT IS WHEN YOU SWITCH SPACES, GO BACK, AND THEN SOVLE IT***
             - yet they didnt add to the idea of insight just explained when it happened?
                 - used the design stance to make this, Theoretical debate + scientic competition
                 - makes predictions about neuroscience
         CRTISISMS
-        - its tight spacings, Meta is technically cognative space INFINITE REGRESSION
+        - its tight spacings, Meta is technically cognative space ***INFINITE REGRESSION***
         - stuck into a place of saying "its different but not" compared to the gestaltists
         - its hard to say what they want to say without falling into a contridiction
         
