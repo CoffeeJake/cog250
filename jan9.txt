@@ -109,3 +109,64 @@ Now onto Descartes
     - follows a fly around a room to create cartesian coordinates
     - everything can be classified as equations 
     - computation is taking a formula and computing it
+
+- french
+
+Hobbs worldview (descartes does not like hobbs, diry englishman)
+================
+By cognition = computation (hobbs proposes)
+    - a mind thats capable of knowledge / knowing
+    
+"computation can be done on a machine" - hobbs
+    - first automatic machine that could do computation, it would have a mind
+    - its a proposal of artifical intelligence
+    - anti religious worldview (predominant at the time)
+        - its beacuse you have a "soul" an aspect that allows you to think
+
+Your mind is something special - "false"
+    - you dont have a soul
+    - can't give a soul, but you dont need to to make a mind
+        - just a computation machine
+
+Descartes reponses are COMPLETLY scientifci (born of the scientific revolution)
+    - says "giving an argument, thats based on reason"
+        - "and reason is based on trying to find the truth"
+            - GOAL: TRUTH
+                - depends on the meaning of things
+                - meaning  
+
+    - none of these things are apart of the scientific revolution
+    - have to do science to counteract the secondary qualities
+        - they are non-mathematical, and if they are non-mathematical, its not computationable
+
+Dismanteling Hobbs AI theory, is using the basics of the scientific revolution(because he also made it)
+
+5 Problems of AI
+    - 5 reasons why minds will never be in the scientific worldveiw
+
+    1. Paradox of mech reasoning
+        - if its mech its not reasoning, reasoning works in terms of meaning
+        - how do you get meaning into a material system?
+    2. Original Meaning
+    3. Purposiveness
+        - where is it? truth
+    4. Normative
+    5. Consciousness
+
+Scientific Project: Is there a machine to solve all these problems above?
+
+2 projects - both projects are legit
+===========
+Weak AI - making machines that can do powerful useful things
+    - self driving cars
+
+Strong AI - **the one Cogsci cares about** our goal is to say **Hobbs is right and Descates is wrong**
+    - self - concious AI, fully aware of its own existantce
+    - this solves all the problems above
+    - very hard
+        - most are pessmistic for strong AI
+
+Can we come up with a theory that hobbs is right and descartes is wrong
+    - jeffery hinton
+
+
