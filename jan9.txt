@@ -1,0 +1,172 @@
+COG250 Jan 9: Welcome back to class edition
+-------------
+Semester Preview
+===============
+
+    - shifting gears towards the disccussion towards AI*
+    - run into philosophers
+    - linguists
+    - all surrounding AI
+
+AI is not a "new" idea
+    - along with this a 45% employment
+
+~autonomous cars in nearly 5 years
+    - will push all drivers out of jobs
+
+Many predictions about AI have been wrong
+    - 2001 a space oddssy / skynet
+    - goes way back the the begginnings of the scientific revolution
+
+Philosophically interesting because its a mechanical approach to understanding the universe
+
+Scientific Revolution
+    - agaisnt the aristelian worldview(s/o hps100)
+    - World View has 2 parts
+        - a view of 
+        - a theory of how we experience the world
+            - currernt worldview doesnt include us 
+
+Con-formity theory - not trying to be like everyone else
+    - sharing the same form
+    - the form is the gestalt of a thing
+
+eidos = a sctructural functional organization synonem (SFO) (chair)
+    - what makes a table different from a chair is its eidos
+    - actually = acts like a "blank" (a chair is actually a chair) (hence it acts like a chair)
+        - in ones mind they understand in their brain how a chair needs the structural functional organization
+    - Theory: when you know something you have the same structure that comes from the thing
+        - you really know something when you cause it to act like something you know
+    - deep intamacy the structureal functional organization of your mind and reality
+
+put any claim to knowledge to 3 basic tests
+    1. extracting the information was functioning (an organ)
+    2. the medium of translation is *clear*
+    3. intersubjective agreement 
+        - if you pass all these tests then your mind is the same as reality
+
+still live day to day in an aeristotle style
+
+shape as a metaphor for form
+    - mind takes the shape/form of reality
+    
+Conformity theory on one side and the other side is:
+*Geocentric* Worldview
+    - theories existsted but not accepted
+        - easily disconfirmed
+
+Aristotle's Theory of Natural Motion
+
+Layers around the earth like circles
+    - more earth something has moves closers towards earth (more water = more water)
+    - things are "pushing" one another, and they all have natural motion, "acting on purpose"
+
+A Worldview = geocentric + conformity theory (and they positivley influence one another)(mutually support one another)
+
+trade is magical
+    - works better the longer the distance
+        - longer the distance = greater chance of ship sinking
+        - important to navigate ships better
+        - aribic numerals (for calculations) + algebra (letters for variables) + "negative numbers" = powerful new ways of thinking
+            - and more importantly play into looking at the sky
+
+Math is better when the sun is the center than the earth
+    - what this says is dont trust your senses or common senses
+        - "Trust the Math"
+        - we are all wrong
+        - even if we're passing the tests
+            - its all an illusion
+
+mind ||| reality
+    (this is a veil of appearence)
+
+experience is what seperates us from reality
+    - but gallileo says math that gets through
+    - math puts mind in touch with reality
+
+Aristotle had ALL the knowledge of his time
+    - BUT THERE WAS NO MATH TO PROVE ANYTHING
+
+"Math is the langugae of the universe" - Gallileo
+    - first one to use math scientifically
+
+Speed is triangular
+    - uses math as a abstract symbol system to describe science
+    - and gallileo also adds in the experimental method
+        - relationship between variables
+        - pretty much finds inertial motion
+    - claims things dont have purpose, have accidental collision of forces
+     
+Primariy Qualities - mathematical properties (objective)
+
+Secondary Qualities - non-properties, only exist in the mind as illusions (subjective)
+    - shouldnt treat this unquestionably => then they cant be studied scientifcally
+
+- everything is an illusion
+    
+Now onto Descartes
+    - he invents psycho technology
+    - follows a fly around a room to create cartesian coordinates
+    - everything can be classified as equations 
+    - computation is taking a formula and computing it
+
+- french
+
+Hobbs worldview (descartes does not like hobbs, diry englishman)
+================
+By cognition = computation (hobbs proposes)
+    - a mind thats capable of knowledge / knowing
+    
+"computation can be done on a machine" - hobbs
+    - first automatic machine that could do computation, it would have a mind
+    - its a proposal of artifical intelligence
+    - anti religious worldview (predominant at the time)
+        - its beacuse you have a "soul" an aspect that allows you to think
+
+Your mind is something special - "false"
+    - you dont have a soul
+    - can't give a soul, but you dont need to to make a mind
+        - just a computation machine
+
+Descartes reponses are COMPLETLY scientifci (born of the scientific revolution)
+    - says "giving an argument, thats based on reason"
+        - "and reason is based on trying to find the truth"
+            - GOAL: TRUTH
+                - depends on the meaning of things
+                - meaning  
+
+    - none of these things are apart of the scientific revolution
+    - have to do science to counteract the secondary qualities
+        - they are non-mathematical, and if they are non-mathematical, its not computationable
+
+Dismanteling Hobbs AI theory, is using the basics of the scientific revolution(because he also made it)
+
+5 Problems of AI
+    - 5 reasons why minds will never be in the scientific worldveiw
+
+    1. Paradox of mech reasoning
+        - if its mech its not reasoning, reasoning works in terms of meaning
+        - how do you get meaning into a material system?
+    2. Original Meaning
+    3. Purposiveness
+        - where is it? truth
+    4. Normative
+    5. Consciousness
+
+Scientific Project: Is there a machine to solve all these problems above?
+
+2 projects - both projects are legit
+===========
+Weak AI - making machines that can do powerful useful things
+    - self driving cars
+
+Strong AI - **the one Cogsci cares about** our goal is to say **Hobbs is right and Descates is wrong**
+    - self - concious AI, fully aware of its own existantce
+    - this solves all the problems above
+    - very hard
+        - most are pessmistic for strong AI
+
+Can we come up with a theory that hobbs is right and descartes is wrong
+    - jeffery hinton
+
+
