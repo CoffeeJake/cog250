@@ -16,6 +16,7 @@ Metcalfe - researcher on meta cognition
             - compare insight vs incremental problems 
 
 Metcalfe and Wiebe 1987 (FEELING OF WARMTH)
+============================================
     - insght problems and non insight problems
     - and providing feeling of warmth indicators every 10 seconds
     - 2 predicitons
@@ -29,7 +30,8 @@ Jousouvec and Bekraceuis (1995)
         - (non insight - slope line going consistantly) vs (insight - curve that goes much faster towards the end)
 
 Kaplen and Simon (1990) "In Search of Insight"
-    - attempting to explain Insight, but not challenged the Search Inference Framework
+===============================================
+    - attempting to explain Insight, but not challenged the *Search Inference Framework*
         - proposing two search spaces
             - 1. Primary - first you serach here (in the regular rules)
             - 2. Meta - then you serach here (then you searech for problem formulation)
@@ -44,12 +46,14 @@ Kaplen and Simon (1990) "In Search of Insight"
         - its hard to say what they want to say without falling into a contridiction
         
 Notice Inverience Heuristic (NIH)(Gestaltian in nature)
+=======================================================
     - across problem formulations, attempt to find a pattern of what isn't changing
     - good chance of chaning problem fomulation to a more solvable one
     - changes what you find salient or relevant to fix it
     - still relies on our ability to ZERO IN on relevant similarities(unexplained ability to do this)
 
 Schooler et Al (1993-1995)
+===========================
     - (1993) had people solving insight problems, and then people solving non insight problems
     - in BOTH conditions had people doing concurrent verbilizetion
         - speak allowed what you are currently doing (like in CTCI)
@@ -75,7 +79,7 @@ Critisism:
 Then what really is at work? (issue with gestaltists is that they didnt give us any theory)
 
 Individual Differences Methodology
-
+==================================
 A ==> Task
 A ==> Insight
 
@@ -84,7 +88,7 @@ A ==> Insight
 3. "Remote Assostive Task(RAT)" = board magic death, what could be placed in front of all of them? BLACK 
 4. "Category Instance Generation" = standard memory search "Diamond" then you would respond "Ruby, Saphire, etc" 
 
-What they found most predictive was Perceptual Restructuring was the best for insight
+What they found most predictive was *Perceptual Restructuring* was the best for insight
 It went downward from there
 
 but it went backwards for Noninsight, so Category Instance Generation was the best and Perceptual Restructuring was the worse
@@ -95,6 +99,7 @@ Gestaltans just critisze but never generate an alternateive theory
 *** Mind is much more than inferences and beliefs ***
 
 Baker Sennett and Ceci (1996)
+==============================
     - *Cognative Leaping* = sometimes you are just doing things, and then the answer appears(bottom up)
         - as soon as you can tell me the final picture (as little hints as possible)
     - good congnative leaper if you can use FEWER cues and still find the right answer

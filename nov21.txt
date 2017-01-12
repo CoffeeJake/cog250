@@ -4,6 +4,7 @@ Gestaltist
 Looking for convergence in Coginative Science
 
 Gick and Holyoak (1980)(find experiments are counter intuitive, ie things are going wrong/werid)
+=========================
     - Brain Tumor Example (Dundar Radiation Problem)
         - SENARIO: person has a brain tumor in the middle of their brain, can kill it but need to use a beam and tear through the brain
             - Answer 1: is several small low intensity gamma beams that destory the tumor
@@ -18,11 +19,12 @@ Gick and Holyoak (1980)(find experiments are counter intuitive, ie things are go
         - these negative results also tries to argue whether humans are rational or not(ie vast majority are irrational)
 
 Lockheart, Lamon, and Gick
+============================
     - Pointed out how experiment above had similarities and differences between Fortress and Radiation
         - those 2 stories are propositionally similar(forces converging to destory a centeral target)
         - Fortress task is to read and undersatand an existing solution
         - Radiation is about figuring out how to solve it
-            - although similar in proposition VERY DIFFERENT in procedure (for solving)
+            - although similar in proposition *VERY DIFFERENT* in procedure (for solving)
             - akin to how thinking outside the box did not really help
             - people said these senarios were "werid"
 
@@ -32,7 +34,10 @@ Lockheart, Lamon, and Gick
         - 2 acceptable meanings for the word "marriage"
         - we all had the knowledge we just had to SHIFT ATTENTNION from the salient def of marry to the non-salient
 
-    - They presented people with a bunch of sentences to read(most were irrelevant)(one was relevant)(2 forms for the relevance of the sentence)
+    - They presented people with a bunch of sentences to read
+        - most were irrelevant
+        - one was relevant
+        - 2 forms for the relevance of the sentence
         - Declaritive Form: "It made the clergyman happy to marry several people each week"
         - Puzzle Form: "The man married several people each week because it made him happy" waits for a sec...then the word "clergyman" appears
             - both essentially do the same thing
@@ -50,11 +55,12 @@ Lockheart, Lamon, and Gick
     - humble people are more wise, due to humble people are willing to admit to their failures and address them
 
 notice that in both propositional and procedural lanugauge is being used, language is priming insight
-    *** language used per-say is being used to trigger insight *** (counter to verbal overshadowing)
+    *** language used per-say is being used to TRIGGER insight *** (counter to verbal overshadowing)
     - its not langugae per-say that hinders, but instead helps to trigger
     - processess that are automatic dont allow us to explain things, but insight is de-automizing to allow change bewtween problem fomulation (vauge)
 
 The Return of Wiseberg  (1995)
+===============================
     - Vervake disagrees with points, but loves him for advancing science
     - Highly critical of insight research
         1. Metcalf and etc, treat insight problems as if they exist (if some state of affairs are JUST inisght problems)(paints them black and white)
@@ -76,25 +82,28 @@ The Return of Wiseberg  (1995)
 - good cognative science comes from the design model
 - there are other shifts in activity
 
-- 1. Metaphors do this(also humor)
+- 1. Metaphors do this (also humor)
     - force you to re-structure your brain, de-automize
     - language use can trigger insight (NOT THE RELEVANT VARIABLE)
 
 CHI and Snyder (2011)
+=====================
 Transcraniel Direct Current Stimulation (TDCS)
     - makes it more probable to shift from Left to Right hemisphere
-    - through shocks
+        - through shocks
     - using TDCS can triple the amount of insight problems you can solve
 
 Ndvon Lettter - how I do on A is how I do on B and so on etc
 
 Fleck and Weisberg (2004) - Back to tackle the issue of verbal overshadowing
+========================
     - had people do concurent verbilization for insight and non-insight 
         - found that it did NOT hinder solving insight problems
 
 (this half i sorta zoned out so maybe go listen to the mp3 or something)
 
 Attention is like a light you shine on something, where you shine it on something and it becomes more shining
+
 Christipher Mole:
     - his argument is that we must make a distinction between different terms
     - practice/train vs walk

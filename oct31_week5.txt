@@ -25,9 +25,10 @@ Intelligence = the capacity to being a general problem solver(DESIGN - if we cre
 - the issue is that we can see the n-tree but we cannot see the whole tree from a birds eye view, instead we ARE the nodes
 - Holyoak - gives a concrete example for counting the number of pathways is F^D (D = number of steps(60), F = nodes at a certain spot(30)) 
     - example he gives is a game of chess, on average you have about 30 moves you can perform, and on average 60 turns in a game
-    - somehow as humans we can ignore unimportant things and just focus on the 4/5 moves we can make
+    - somehow as humans we can **ignore unimportant things** and just focus on the 4/5 moves we can make
 
 Distigishing between algorithms and heuristics
+===============================================
 
 algorithm = a problem solving method gaurenteed to generate a solution or prove its impossible(certainty is attatched to it)
     - algorithm for determining amount of people in this room(counting)
@@ -45,15 +46,16 @@ our brains are constatnly using heuristics because we would not be able to do th
 
 Two kinds of Heurstics
     1. Avaliability Heuristics - easier it is to remember something similar to x (or imagine x) the MORE proboable x is (when tom will spin as luigi to crouch cancel it)
-    2. Reprosentetivness? - how categorical/prototypical the event is the MORE probabale x is(a situation you can see from VODs and other games even if its never happened)(plane crash)
+    2. Reprosentetivness? - how categorical/prototypical the event is the *MORE* probabale x is(a situation you can see from VODs and other games even if its never happened)(plane crash)
 
 The issues with GPS
+==================
 2 Flawed assumptions
     1. All problems are essentially the same
     2. Problem formulation is a rather TRIVIAL affair
-    - Newel and Simon are falling prey to "because we have a category means we have an essance)
+    - Newel and Simon are falling prey to "because we have a category means we have an essance"
     - problem solving methods seem to be indepence and interference
-        - independance = swiming does not help with cog250
+        - *independance = swiming does not help with cog250*
         - golf/hockey story = similar actions but the golf swing and the hockey swing are radically different
     - also fell prey to the differences between well definied vs ill defined
         - how a problem is how you set it up
@@ -64,7 +66,7 @@ The issues with GPS
             - since most things are ill defined problems which is why (2) is such a detrimental thing
             - problem formulation is the MOST CRUCIAL for this state
 
-Problem Formulation = the missing element, where much of the zeroing on relevant information (helps avoid explostion)
+Problem Formulation = the missing element, where much of the zeroing on relevant information (helps avoid explosion)
     - also deals with ill definededness
 
 Kaplan and Simon (same simon)(1990) "Mutilated Chessboard" - title is Insight(how an unsolvable problem becomes solvable)

@@ -14,6 +14,7 @@ object -> probe -> hand
     - yet the experiment above was opacity to transparency shifts
 
 A way for our attention to move
+===============================
 - bring about a fusion and manipulate waht you are paying attention to
 - Big H made of tiny "l"s
 - Gestalt = Global vs Fetulon = Locally (constantly shifting around, this is also no captured by the search light metaphor)
@@ -24,7 +25,7 @@ A way for our attention to move
 - therefore the formal education of attention has been simplistic and debatably wrong
 
 Vervake and Fevrarc 2016
-
+=========================
 - now hes showing us a graph that looks like a cartisean one with a diagonal line
 - as you move more to the top right it looks like you are scaling up your attention
 - and as you move down you scale 
@@ -41,7 +42,7 @@ Meditation means to move towards the center of your own mind
 Contemplation means "Theoria" , which leads to a theory and allows you to combine things to allow you to look at what they are sharing
 
 Knoblich and Others (1999)
-
+==========================
 2 Processes that improve insight
     1. Chunk decomposition - the better people are at breaking up chunks the better they will be at insight (9 dot problem issues)
         - gestalt -> featural
@@ -49,10 +50,11 @@ Knoblich and Others (1999)
         - have to de-automize ones cognition
 
 Kang 2013 - de-automize your cognition
+======================================
 - automizeing cogition is training it to do things automatically
     - allows working memory to worry about other things (good example is driving)(high way hypnotism)
     - verbal overshadowing has nothing to do with language (like having to actually thinking about typing)
-    - a transparancy to opacity shift is when you have to go from the background to the foreground, like the glassess example when you pull off your glasses and can see them
+    - a *transparancy to opacity shift* is when you have to go from the background to the foreground, like the glassess example when you pull off your glasses and can see them
 
 - objectivly proved that hypnotizing exists by using the strup test (colors and text) and they got better at solving it
 - training in mindfullness minimizes the strup effect (trains you to de-automitize your cognition)
@@ -61,12 +63,14 @@ Kang 2013 - de-automize your cognition
     - and same when it scales up
 
 Forster and others (2004) & Hantend Carol (2008)
+================================================
 - seeing and creating dot pictures = scaling up (oh thats a picture of a naked woman)
 - cognative leaping is also evidence for this (9 dots, and they turn the dots into a square)
 - scaling down = overshadowing, causing people to choke and have issues
 there is evidence in all directions
 
 Deyoung, Flanders, and Peterson (2008)
+========================================
 - Breaking Frame 
     - "Anomalys card soring task"
     - flash pictures of playing cards and identifying an analomus card when it appears
@@ -90,6 +94,7 @@ Phase-Function fit allow syou to build up and down to solve problems
 
 (moving into neuroscience)
 Stephon and Dixon (2009)
+=========================
     - Self organizing criticality(soc)
     - order is how do things before predict where things will go 
     - sand dripping into a container, it will "self organize"
