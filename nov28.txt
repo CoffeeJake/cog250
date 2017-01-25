@@ -78,8 +78,6 @@ Deyoung, Flanders, and Peterson (2008)
 - Making Frame
     - not only do you have to destory your current frame but you have to generate a new frame
 
-Phase-Function Fit
-    - different phrases where you must either break frame (lower attention) and make frame (increase attention)
     - one must need to train this skill to scale down understand and generate new frames and being able to move between them
     - meditation
 

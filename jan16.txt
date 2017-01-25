@@ -1,0 +1,135 @@
+Test format: 1. short essay answer (like t1)
+             2. longer argumentative essay (4 choices) (tracing lines of development and theories)(cross lectures)
+                - may refer to short essay answers in long one (good idea to read long before) (NO MORE THAN ONE)
+                - budget your time, and coordinate your answers (make a mind map to see this)
+                - same format as this to the final
+                - dont mearly review material, have to add my own argument / critically engage
+
+=== Lecture Begins ===
+
+=== Review Begins ===
+- last week was a pre-history of AI
+- strong AI is deeply intertwined with another scientific revolution
+- aristotle non-conformity = funciton doesnt follow the shape
+- things are active on purpose
+- cognition still operates on an aristotlian manor
+- math becomes a cenral part of science
+
+everything that is real can be grouped into symbols that can be completed in a mathematical manor
+    - everything else is just subjective stuff 
+
+Hobbs came to the conclusion that cognition is computation
+    - purly material entites can do computation
+    - brain is just a machine running computations
+    - through this he claims artifical intelligence
+    - "we have nothing like a soul"
+
+Descartes response
+    - when you reason, you are trying to get closer to the truth
+    - "no meaning in matter"
+    - when something is mechanical it cant be operating in terms of meaning in truth
+        *MECHANICAL PARADOX*
+    - no way manipulating matter can explain consiousness
+    - all his arguments come from the current scientific revolution
+
+not everyone agrees with this, but they should
+    - this is the OG debate, the standard that was set
+
+Strong AI is to build a machine with good explination that hobbs is right, and how/why descartes is wrong
+    - if strong AI wins, the natrualistic imperitive will be solved
+
+Weak Ai means how much evidence it provides, doesn't mean its actually weak
+    - just doesnt prove Hobbs claim
+    - Weak AI's succes != Strong Ai's success
+
+=== End of Review ===
+
+The Simulation Problem
+    - what tests can we use to prove Strong AI
+it may even be the case that the mind is not a material thing (epistemic boundedness issue) 
+
+"What is a computer?"
+    - what does he mean by it that a computer is, not what physically makes a computer
+    - analyze / formalize what hobbs meant when he says cognition is computation
+
+Houdlin = a computer is an interpreted automatic formal system
+    - central claim: formal system
+
+What do you need for a formal system? (formal game) (example monopoly)
+    1. Rules - inital configuration
+    2. Tokens - pecies you play with, starting configuration
+
+Rules -> configuration of tokens -> new configuration of tokens -> Rules -> etc(now start over, its an endless cycle)
+
+Formal Game = all that matters is the relation between tokens, rules work in the relations between tokens
+    - we attatch meaning to the tokens (house, hotel, dogbowl is me)
+    - yet the rules + tokens cycle still goes on whether we give meaning or not
+    - a formal system is *COMPLETELY SELF CONTAINTED*
+    - meaning is irrelevant for a formal game
+        - also why a computer is able to play formal games like monopoly
+        - it doesnt matter what the tokens PHYSICALLY ARE, as long as you can use them in accordance to the rules(formal system)
+
+*some games depends on specific properties*
+    - football is the classic example
+
+is our mind more like chess or football?
+    - if chess its very plausible, specific rules to produce things (chemicals, nuron)
+    - if its like football then itll be much harder
+
+Formal Equivalence = a 1 to 1 corespondance betewen systems
+    - football doesnt work this way, since there are things you can do that depend on the actual physics
+
+Medium Independant = tokens can be of any form, as long as they can be manipulated
+
+formal equivalence + medium independance = multiple realizability
+    - can be realized in a computer and the mush of our brain
+    - if they are formally equivalent, computer literally has a mind
+
+you make the "token world connection" - what gives a token its power
+    - if this is correct then strong ai is very plausible
+
+token vs type
+    - a dime, a nickle, a quarter
+    - 3 tokens
+    - 3 types
+    - 6 subway tokens, but 1 type
+        - both belong to two seperate formal systems
+    - taking a token, and moving it around
+    - rules also work in confirugration of tokens
+
+formal relations between the tokens = The Software (mind)
+    - the matter of the tokens is irrelevant
+    - software moves around seperatly from the hardware
+
+causel interactions between mentioned tokens = hardware (brain)
+
+can't reduce chess to pecies of wood or plastic, many things work this way
+    - what makes it chess is how it operates of functions
+
+tension between (1)AI is near and (2)neruoscience is required for brain/mind understanding
+    - might also be the timing of a feature
+
+Pascal - on his own her remade euclinian geometry
+    - invented probabilty theory
+    - all while staying in his own room
+
+    - made a distinction between the spirit of geometry, and the spirt of finese
+        - all that matters in gemoery is the order and the formal locations of the tokens
+            - all triangles have the same formal features
+        - most of our behavoir that we find meaningful has finese
+    - represents we are not a formal system, and that we are something beyond that
+
+Elements of a formal system
+    - a process thats digital in nature
+        - "digital" = a set of techniques that will help the system be self contained
+            - processes that are POSITIVE and RELIABLE
+                - positive = a technique that will be successful agaisnt a set of standards
+                - reliable = high percetage that frequently succeds
+
+'read' = a system has a teqnique for determining the locaction and types of tokens
+'write' = given tokens, to manipulatie according to the rules of a formal system
+    - read/write cycle -> in a circle
+        - after written, it needs to be read again before being written again
+
+'Positive and reliable methods for a read write system' (keeps it going) 
+    - read/write cycle keeps it as a self contained cycle
