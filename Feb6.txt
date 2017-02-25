@@ -1,0 +1,189 @@
+Microworld didn't work
+
+=== Lecture Begins === 
+
+- The main issue with microworld is that they didnt scale up
+    - no inkling of how real world cognition works
+
+Why did Microworlds fail?
+    - Sherdlu never initiates anything, just responds
+    - whats important salient, crucial, (whatever normative standard)
+    - Sherdu simply AVOIDS this issue of evaluation to govern your cognition
+    - whever it avoids a certain issue
+        - IT CANNOT SCALE UP ON THIS ISSUE THEN
+        - we want AI to be autonomous, and self motivaited
+
+    - Sherdu only exsists in a completely virtual world
+        - its hard for machines to move around within their own worlds
+        - procudural knowledge = is HARD CODED into the world
+            - no way to get a machine to interact / precieve things in its world
+        - all the problems posed to Sherdu are well definied
+        - no answer to ill defined problems (it simply avoids them)
+
+Quantative Development - amount of Knowledge
+Qualitative Development - different types of knowledge that you can have
+    - we are interesting, we can change the content, and the functions that we can perform from what we learened
+
+Sherdu has completely and exhausted memeory that cannot scale up, slightly complex enviroment
+    - it would explode
+    - avoids selectivy memory, and reconstructive memeory
+    - it nows everything, but doesn't try to predict problems in the future
+
+Sherdu has no sense of the situation
+    - cannot deal with ambiguous information, there is no ambiguity in that world
+
+what came next?
+    - complex interconnection of common sense knowledge, operates in a context sensitive manor
+        - avoids explosion
+
+The Answer: Sterotypes
+    - anything can be relvant to a particular problem = Knowledge Access Problem
+    - when anything is relvant, you want to search EVERYTHING = explosion
+        - the goal is to interconnect the knowledge, without triggering cognatorial explosive search
+        - organize information thats relvant to something (dogs) sufficiantly accessed
+        - only worry about FAMILIAR and FREQUENT facts about dogs
+            - for a sterotype of dogs you've seen (prototypes)
+            - has additional issues that prototypes didnt have (cross referenceing)
+
+EX: dog
+    - mammal
+        - animals
+        - cats
+    - 3 foot long
+    - furry 
+        - cats
+        - tigers
+        - weridos
+    - pet
+
+- issues are theres lots of stuff, and you can get really lost in your cross referenced
+    - attempted to impose constraints on how you could cross referece
+
+Default Assignments
+    - information always provided in a sterotype
+    - "I put it in a box" (it has a default parameter of the box unless specified otherwise)
+
+Probability Assignments
+    - what something might be
+
+THe issue with these assignments is that they fail to truly capture what some things are
+    - come with additional new problems
+
+How does one gernate a sterotype
+    - additionally, (differetnly in prototypes) they phase the selection problem
+    - which sterotype to trigger in a certain situation
+
+Sterotypes suffer from tunnel vision
+    - storing raincoat in bathtub
+    - connecting information in a contextive manor without facing cognatorial explosion
+
+(should go back to listen to this half, im falling asleep)
+
+Survival Robot
+    - looks for food, batteries, then transport them to a safe spot
+    -
+
+Agent vs Emitting Behaviour
+    - everything is emitting behavior
+    - difference is that agents are able to determine the consquences
+        - and can adjust its behavior accordingly
+        - Robot + wagon(carrying battery)**
+            - problem: theres a bomb now on the wagon(unintneded side effect)
+            - bomb blows up and destroys the robot
+            - theres ALWAYS side effects to our behavior
+                - and they can be very very dangerous
+            - rebuild robot to understand unwanted side effects
+            - and places a black box inside the robot to watch it(like a log)
+            - instead it freezes up, and explodes to avoid unwanted side effects
+            - going simple, doesnt fix it...still exploding
+                - cannot be intelligent without exploring all the side effects
+                - relevance filter for danger is now requiree
+            - creates a list of relevant things, and non relevant things
+                - problem is that it then goes through and checks to see if all things its unbounded
+                - cannot check all things, intelligently ignore things on the side effects list
+
+            * Known as the Frame Problem * (Shanahan)
+
+            - dependant on the frame/context surrounding the problem
+            2 Parts:
+                1. logical system for representing change
+                2. the problem of *relevance* (the "real" problem)
+            
+Parmenides - 1. Change is when something passes into or comes out of non-existance
+    Non-existance doesn't exist, all of this is an illusion
+Zeno - (getting logic to represent change is a really hard problem)
+    - is relevance a computational property, if it was we perhaps could have captured it already
+
+Weak AI has been succeded, people began beliving AI was going to fail
+
+Media paid attention to the wrong thing (Moores Law)
+    - technology evolving at an ever increasing rate
+    - calculator on the phone has the same amount of the apollo mission
+
+Positive Things about Gofi
+    - set the gold standard
+    - tells us what it would look like if we could satisfiy the naturalistic imperitive (analyze/formalize/mechanize)
+    - underlying causal factors
+    - trying to make Ai helps us know that we don't know what it really is
+    - revealed many other deep problems about the mind
+    - think we can explain something, but when we try to make it we quickly realize it wont work
+
+Computational AI shows why we are wrong in other fields like neuroscience
+
+1st Generation CogSci(circa 1990-1995)
+    - idea that the central metaphor is the computational construct
+        - "cognition is computation"
+        - negative: failure to produce strong AI
+            - no definitive answer for descartes proposals
+            - often gofi often confused mechanizing with giving a computational explination
+                - very often gofi would equivicate between strong and weak AI
+            - avoided problems instead of solving them
+            - need to make sure its not weak AI posing as strong AI
+        - gofi failed to go AROUND psychology (synoptic integration)
+            - and neuroscience
+            - it should have been paying more attention to psychology
+                - could have avoided those mistakes
+            - metaphysical problem of mind software, brain hardware
+                - does not exactly solve the Descarte questions (doesnt fit into gofi)
+
+Gofi WAS good science, not sure if it still is
+    - least: many people came to the conclusion that Gofi was NO longer good cognitive science
+    - an alternative to gofi was needed to satisfy the naturalistic imperitive
+
+Brought about the: 2nd Generation of Cognative Science!!
+    - what was the alternative?
+        - all these cognative projects were failing
+        - ie what is preventing us from strong AI?
+    - what happened was we needed a new fundamental assumption
+
+Fundamental Assumption: Cognition operates in a way very similar to the way language does
+    - thinking is like argumentation
+    - although 2nd gen ends up rejecting this assumption
+    - assumption so obvious that it almost seems transparent
+        - an assumption not an assertion
+        - although not necessarily the case
+    - dont operate like langugage but like skills
+    - 1. language conveys my thinking; therefore my thinking is like language
+    - 2. talking to ourself all day long, its whats going on in our mind
+    - how and why and to what degree does language represent in cognition
+    - language is primarily coding intrepretations into symbols and systematically creating propostiions
+        then manipulation those propositions to some rules/logic
+    - idea that when we think, are doing a computing program doing something like above with language ^
+    - if we reject that cognition is like language, what is cognition like (common sense is empty)
+    - alternative only matters, if its an alternative to LANGUAGE LIKE PROCESSING
+        - doesnt mean its true, its the main theoretical move thats being made
+
+What do we then say cognition is like?
+    - "cognition is like how your brain works"
+    - doesnt mean we are going to re-create an organic brain
+    - create a neural network instead
+        - artifical processors
+        - parallel distributive processing
+            - one used the least
+        - make a machine that operates on the variable of the brain not of language
+
+- How much is the activity of this, affecting the activity of that
+    - signal strength (simulation)
+    - connection strength (idea that its not a democracy in our brains)
+        - ie some nurons have more impact than other
+- using connectiong / signal you can sway cognition (non language like) 

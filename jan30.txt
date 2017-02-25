@@ -1,0 +1,131 @@
+A Formal Systems Review
+======================
+
+what is a computer?
+the idea that a computer is an automatic formal system
+    - tokens
+    - rules
+
+Formal Games / Tokens / Rules
+    - medium independance - type of token + rules of that type
+    - along with multiple realizability
+
+- Hobbs vs Descartes
+- Hardware/Software Brain/Mind
+
+End of Review
+======================
+
+There must also be a range of error 
+    - realiable ways of reading and writting sharkspeares sonnet = digital*
+    - painting by Monet = not digital**
+        - every way to copy / reproduce it is a lesser version of itself
+
+Finite Playability
+====================
+    - really concered that we are going to be able to satisify the naturalistic imperitive
+        - a formal account to analyze/mechanize/formalize
+
+"Just being able to describe a system, doesn't mean it follows mathematical rules" 
+    - doing calculus, and the universe doing calculus
+
+What does a player have to be able to do?
+    - to produce one legal move, or prove none are possible (checkmate)
+
+A system must do the same thing, generate a legal move, or show there are no legal moves
+
+Must make sure the system that is being proposed can be analyzed, formalized, and mechanized
+    - then it is finitely playable if it satisifies these things above
+
+- Must make the assumption that the system is capabble of primative functions
+
+- Create a machine in such a way that the machine can follow the rule
+
+Decide to do x or y, flip a coin, follow the coin
+
+rules are non-homucular**
+    - dont need a little man to have them work
+
+primitive algorithm 
+    - the software is built out of primitive algorithms, how its implemented
+    - can be built as an algorithm, and how it functions as a program
+    ex. a chess playing program is built on an algorithm, but it plays heuristically
+
+A complex algorithm
+    - put together primitive algorithms to follow complex rule sets to make the complex algorithm
+    - can get really complex, that are not running algorithm 
+
+Each algorithm is running mindlessly, "analyze intelligence into an army of idiots"
+    - nurons in a brain are idiots, but they perform intelligence
+
+When you make a system instead of a game, the player + game + referee = system (becomes one)
+
+tokens -> token manipulator -> referee
+
+tokens is a sub machine: tokens -> token manipulator -> referee
+    - so it every single machine, until he gets very very primitive machines(like binary 01s)
+
+Everything can be broken down
+complx program -> primitive algorithm
+complex machine -> primitive machine
+    - completly parallel decompositions
+
+Houndlins argument, once made clear, is made clear that it fails
+    - to interpret** is to make sense of
+    2 seperate meanings(argument is getting difficult, trap your meanings carfully)
+    equivication = "nothing is better than long life and happiness" , but "a peanut butter sandwich is better than long life and happiness"
+    - so a peanut butter sandwich is better than long life/happiness
+    1. A sense of translation - decode to make sense of something - coherence
+    2. Understanding - assigning sense
+        - we just want the notion of understanding
+            - symbol = something that is meaningful, bears meaning
+            - "How to turn tokens into symbols?"
+            syntactic relations = relations between symbols and tokens
+
+        Tokens lead 2 lives, double identity
+            1. Syntacticaly lives as meaningless markers
+            2. semantic lives, as they stand for things in the world
+
+Reason can be paralleled by logic
+    - soundness vs validity
+    - can translate reason into logic
+        - validity is **not truth**, but the ability to preserve truth
+        - truth preservation is not the same as having truth
+
+According to Houdlin, you can turn tokens into symbols, by creating a formal system that manipulates them logically, in a way that is equivalent in a way to how they would be manipulated by reason
+    - is the machine doing the same thing you are when you understand, it is doing validity, not soundless
+    - how do i get meaning into the system, so it can judge the soundess
+
+We need to cross the divide bewteen sematic + formula and formula
+    - if we cannot cross the divide we have to be able to analyze/formalize/mechanize original meaning
+    - popular argument that the original or meaning is bounded by epstmetic boundedness
+
+Problem of original meaning is such a deep problem that we cannot give a scientific definition 
+
+The History of Artifical Intelligence
+======================================
+
+These two histories (cogsci/AI) have been running parallel but not talking to one another yet
+    - coulda saved time, we are running out of it
+    - History starts with the GPS
+        - failed, bound by assumptions, all problems are inheriently the same
+        - no problem formulation
+
+GPS kicks the can in 1972, failed to give the computer understanding
+    - problem was the real world, since its extreamly complex
+    - doing things in a lab, and if they can scale up
+        - simplified things in lab to see causality between variables
+        - understand basic interactions, understand it, then get out
+
+Hence the project became known as "Micro Worlds"
+    - create a very simplified enviroment
+    - make it test it
+    - then scale it up for real world application
+
+Wineograd
+    - created Shrdlu
+        - a world where the only things inside were certain shapes, "blocks world"
+        - laid the groundwork for all the worlds we play in video games
+        - the centeral issue was that the micro world would not scale up
+            - could not generalie to the world
+            - scaling defeated it

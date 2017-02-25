@@ -1,0 +1,116 @@
+=== REVIEW ===
+
+- mircoworld failure
+- sterotypes early success into failure
+    - repeated issues with prototypes
+- cogsci needs to be pursued because 2 domains doesnt work
+- GOFI - (good ol fashioned artifical intelligence)
+- problem was robot + food source
+    - lead to cognatorial explosion
+- deeper issue is the relevance problem
+- facing a mountian of issues at a deep level
+    - perhaps hobbs's central idea was wrong
+    - the big issue is that pre-supposition was language like
+        - cognition is like an argument like a computer program
+        - need to give up language
+        - how do explain the relationhsip between cognition and language
+        - what would it mean to give up the idea: cognition is language
+        - give up theoretical variables
+            - instead use "brain like" variables instead of language like
+            - cognition is not only "brain like' but "life like"
+        - what variables could we do, that nurons fire (1. alter signal strength)
+            - 2. valence of the signal (excite / inhibit)
+            - 3. weighting of the connection is another variable
+
+=== REVIEW ENDS ===
+
+Can we build strong AI just using these variables?
+    - if all you do is use a nural network
+        - then we are not proposing an alternative to gofi
+
+2 Opponents to Strong AI
+-----------
+    1. dealing with descartes
+    2. convince hobbs that computation isnt the answer
+
+How to get nural networks running?
+    - we have nodes
+        - how brainlike does this have to be?
+    - networks would have 500/600 nodes
+    - all that happens in NNs is that they can only do valence
+        - does not include other chemicals (like endocrin)
+    - several nodes sending signals to a single node
+        - takes into account: signal strength, the valence, and the weighting
+        - of EACH connection
+            - the idea is you can turn all these into integers and multiplying them
+            - weight times signals
+            - this is essentially how neural networks work
+            - lots of things happening parallel to one another
+
+History on NNs:
+    - NNs become important in the early 90s/95s
+    - yet they existed many years before this
+    - in the 60s they were called perceptrons
+        - input nodes vs output nodes
+        - complex connected machines
+        - mechanized version of behavoirism (psych idea that all things are stimulus -> response)
+        - had mathematical proof that they couldnt do (exclusive or)
+        - behavorism has been disprooven (formal theory, you can proof that it cant do many important cognative functions)
+            - not just something is better, but disprooven
+        - hidden layers (not on either input / output sides)
+            - thought it wouldnt help
+            - well it does
+        - additional layers of nodes would not solve the problems
+        - change functionality of a network by adding in hidden layers, change its confidence
+        - input nodes -> (HIDDEN LAYERS) -> output nodes
+        - did i do that? (how do you know what you should do)(what impact your activity has on the network) 
+            - come up with a way to assign blame
+            - want to manipulate the WEIGHT on the connections in order to assign blame / modify the network
+
+Assigning Blame
+    - get a sound wave (using submarine sonar examples)
+        - then distinguish if its a rock or mine
+        - convert this to a sqeuence of numbers
+        - put them into the INPUT nodes, they activate according to numbers
+    - then they quickly go through their connections, then the output nodes fire
+    - chances are its a wrong answer
+    - what it did (performance value) vs what it should have done (target value)
+    - take the target value and subtract the performance value
+        - gives back an error value
+    - mimicing causal processes between the nodes
+    - then does statistical analysis to change the weights by assigning blame statistically
+    - back propogation of error ^
+        - nudge connection weights abit to change the output
+        - then try again
+    - then you have to give up belief, because its just results from arguments            
+
+Training NNs
+    - tank vs no tank training
+    - then after training you put it out there, but then it fails
+    - nural netowrks pick up on patters in the data
+        - whats being offered in place of propositions
+        - that pick up in patters in the data
+    - pictures were daytime vs nighttime with tanks
+    - sampling bias
+    - then see if it passes onto test data it hasnt seen before
+    - learn complex DeMorgan laws, but not basic things
+    - Weak AI / NNs can do lots of cool cool things, just not strong AI
+    - in order to do back proposition is the target value (someone has identified it for you)
+    - target value comes from someone who has already learned
+    - nural networks rely on an external teacher to give it proper data / target values
+    - inside the network there is something already LEARNED
+    - until the late 90s learning and plasticity (where you could learn but not be molded)
+    - yet they could find that you can kill synaptic connections
+        - proved false where # of nurons = intelligence
+        - synaptogenesis
+        - neurongensis - learned the brain has stem cells that can grow new shit
+            - even into old age neurogensis exists
+
+    - learning = training networks
+    - plasticity = tinkering with the networks
+    - the degree to which the network uses suporvised learning is how useless it is
+        - cannot satisify the naturalistic imperitive this way
+        - unsuporivsed learning
+
+
+
