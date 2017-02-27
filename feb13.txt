@@ -113,4 +113,104 @@ Training NNs
         - unsuporivsed learning
 
 
+=== Break ===
+
+1996 - unsuporvised learning / plactiscity to be developed
+    - language and langague like processing doesn't describe it very well
+    - self organized
+
+Unsupurivsed learning = non-humuncular learning
+unsuporvised plactisity = non-humuncular plascticity
+
+Geffery Hinton - (correct/brilliant) (but not there yet) 
+    - 2 different sets of weights in the same network
+        - meaning that 
+    - spoken in Phases
+
+Want to get network to recognize letters
+    - show the network a bunch of letters
+        - all kinds of different "a"s
+    - don't correct it, let it just choose
+    - then do some data compression
+        - make a scatter plot / line of best fit
+    - starting to pick up whats invariant though its plot
+    - extracts the invariants
+        - has a bunch of kernals of invariants
+    - network precieves from the world
+        - then fanticizes
+    - hasnt been given the target value
+        - it will pick up on patterns that are not apart of the invariants
+    - all variations will contain the invariants
+        - its how to look at patterns in the world
+        - how to look at complex pattern in the world
+    - increasing its ability to detect patterns
+
+    Recognition-Generation Cycle (bootstrap each other up)
+        - self organizing
+    1. pick up on whats invariant
+    2. use that to generate variations
+    3. pick up on patterns in the world that will pick up on more complex patterns
+    4. better invariants
+    5. better variations
+    6. better patters
+    ETC
+    "The Wait-Sleep Algorithm" (official name)
+
+Dreaming - is the generation part of the cycle
+    - generating fanticies to deal with the real thing
+    - subtle complexities for real patterns
+    - bizzare extreme thing, to deal with regular things
+        - still new, but plausible things are comming along
+        - Unsuporivsed Nural Networks
+
+- Nurons used to recognize emotion are used to generate emotion
+
+Issue with NN, they tend to be single problem solvers    
+
+Unsuporivsed Placticity
+    - 1996 - Nershal & Shultz
+
+Casecade Corralation Models
+    - introduce nodes, connected to the network such that they can pick up information
+        - BUT CANNOT CHANGE THE NETWORKS BEHAVIOR
+        - recieve only
+    - which activity MOST CLOSLY relates to the error in the network
+    - one of the nodes "wins" and then kill off the other
+    - now the winning node is now able to interact with other nodes in the network
+    - by changing hidden layers, not just amount, but the KIND of functions it can preform
+
+Change in the functions
+
+Formal Systems - completely defined by the logic it uses 
+    - to change competence of a system, change its logic
+
+IF you wana change the competence, change its logic
+    - and that means its functions will change (for the logic to use)
+    - theres no way of running predicate logic, that will generate formal logic
+        - cannot generate a stronger logic, from a weaker logic
+
+There is no computational way of going from a weak logic to a strong logic
+    - qualitative development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
