@@ -1,0 +1,107 @@
+Welcome back from reading week bitch
+======================================
+
+Alternative to GoFi
+   - give up the idea that AI is language like
+    
+Back Propogation and training (tinkering)
+    - bad because its another supiroir person to give it inteliigence
+
+Generation -> Recognition cycle
+
+Plasticity / Learning
+
+#I cant pay attention
+
+=== End of Review ===
+
+Successes of Connections
+    - very good at picking up on patterns in a non descersive?
+    - something within us learns about complex patterns in an enviroment
+    - explaining language is problematic for NN
+    - but skill knowledge is bad for GoFi (but not for NN)
+    - what you find salient and relevant
+
+Skillful interaction is important in the world
+     
+Neural Networks can pickup on complex patterns with multiple constraints
+    - NNs are not bounded by logic (relations)
+    - can do chicken and egg problems
+
+"Ahh" sound, and we are hearing them the same
+    - even though the pitch is NOT the same
+    - categorical perception
+
+Arthur Reber - was trying to learn language
+    - *implicit learning* - learning going on outside our effort
+    - artificial grammar, makes random strings (aklssal)
+        - then given a new data set (one that follows the grammar above, and the ones that dont)
+        - then they must sort them
+        - people reliably score well above chance
+    - its a kind of learning / pattern detection
+    - if you can explain implicit learning -> can teach intuition
+    - a lot of learning is intuitivley driven
+
+Graceful Degredation
+    - if he turned down the lights in here slowly, we'd slowly lose our ability
+    - gofi failes when the lights are turned off
+        - ex. when you take a line out of code, it can fall drastically
+    - NNs brought up things that GoFi couldnt explain
+
+NN brings evidence that cognition is computation
+
+Smolensky and Others
+    - fundamental in setting up the debate on connectionism
+    - Foder vs Smolensky -  big debate about connectionism (GoFi vs Connectionism)
+        - 
+
+Foder and Zenon Pylyshyn
+    - emulate a program to act like a neural network
+    - what are the two different claims about the nature of cognition (between NN and GoFi)
+        - evidence that a NN that can do computation = cognition
+        - constrain a NN to operate
+    - not WHAT the machines do, but their STATEMENTS about cognative science
+
+patterns of coactivation
+    - NNs cannot rely on propositional structures (and inferences based on them)
+        - means they are relying on computation
+        - number of thoughts gets worsed as you get more nodes
+            - has trouble distinguishing 
+            - associations have trouble distinguishing
+Truth Preservation
+    - give a non propostional account of how Truth is Preserved
+        - NNs need an alternative to GoFi on this point
+    - we don't have an alternative theory for how truth is preserved
+        - have to find a non accountual theory of computation
+    - its a crazy argument, you don't have thoughts, its just truth and falcity
+    - nearly none of our behavior is belief driven, its salient (skill based)
+        - driven by approciacy 
+    - only theory we have is logic
+
+Finite Limited System => produce massive productivity of thought (compositionality by being like a language)
+    - COMPOSTIONALITY IS A LANGUAGE LIKE EXPLINATION
+    - as soon as they say that they give evidence to GoFi
+
+Systemeticity
+    - a mind that could think can think of A but not B
+        A. John loves Susan
+        B. Susan loves John
+    - our minds are deeply systematic
+
+NNs vs GoFi
+------------
+
+GoFi - you network theoriests havent solved anything we havent solved (train problem, relevant problem, purposefullness)
+    - how much of your cognition is pascal vs descartes VS propositions / beliefs / inferences
+
+A lot of your cognition is not computation
+
+Duel Processing Models
+    - idea that we have 2 different, styles of processing
+        s1 - Guessing, sorta just going on 
+        s2 - this lecture rn, very demanding (have to pay attention) meticulus
+    - perhaps we are a combination of both
+    - attempting to combine these processes for AI
+        - NN + standard computational machine
+    - best answer to this debate is the hybrid answer
+        - evidence is converging sides of evidence from psychology

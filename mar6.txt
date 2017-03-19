@@ -1,0 +1,141 @@
+=== Review ===
+
+- advantages of NN
+    - chicken / egg
+- Relevant Issue: what is the correct theory
+- compositionality = language like function
+- skill knowledge
+- has to do with duel processing models
+
+=== Review ===
+
+How do you know when a simulation actually counts as Strong AI?
+    - crossing the threshhold from weak ai to strong ai
+    - knowing when you have created an instance of simulation
+
+*Simulation to Organism*
+
+Typically you can transfer when there is an important identity relationship
+    - how do we determine identity(relation)
+    Leibniz - Law of Identity
+        - identible of indiscernible
+    Numerical Identity = 2 things that are one in the same
+        - supermane and clark kent
+        - when something can be dicerned, not every instance means you need every property
+
+    Transfer from a simulation to an organism
+        - which requires and identity relationship
+        - which also comes from dicernabilty
+            - which passes the test for identity
+
+Turing Test
+    - not being able to tell the differnce between man/machine
+    - what are attempting to do, is SCREEN OFF certain variables (visual) to be relevant of being cognaitve
+        - this is why you cannot see the robot / the person
+    - assumes that GoFi is correct
+    - makes barriers for the relevant judgements
+    - even Turings judgements are highly questionable
+
+Fodor (1968)
+    - "How do we know what those important properties are?"
+        - believes that language is essential to cognition
+    - "Where do we get our judgements of things that are important to cogntioin"
+        - common sense / intutation (NOT GOOD)
+        - explicit scientific psychology (issue is that its an ongoing project)
+    - says GoFi is wrong, but the computational part is correct
+        - saying that its a bad simulation
+        - "we dont do physics by creating a situation (turing test)"
+
+How to get consensus of what should be included and not included?**
+    - shared conceptual framework of what things really are
+    - we can tell the difference between a naturalistically occuring thing
+    
+Green's Point - no criterion of the cognative
+    - the mark of the mental
+
+We are Rod, we cannot tell the difference between the real and the fraud
+    - we have no conceptual framework to agree what is a real / fraud version of the brain
+    - we dont have an agreement of what should be SCREENED OFF and what can pass through the screens
+
+Weak AI = can just care about what a machine is and what it does
+Strong AI = due to our inability to agree
+
+*hypo: we have a test to discern Strong v Weak*
+
+- they record lecture, and at some level you get everything you need from class
+- but vervake in the computer is not the same as the vervake irl
+    - difference between level of performance
+    - and the level of competence
+    - things must work at a level of competence
+
+Competence vs performace
+    - lava in a classroom is stil the same as lava in a volcano, but you wouldnt say a classroom is a volcano
+    - difference between what something CAN do and what something is CURRENTLY DOING
+
+Similar behaviorial repertoire
+    - not just identical to my behavior but to my competence
+    - according to Foder, this means you only have weak equivalence
+    - how that competence is being implemented
+    - we want that the machine to be using the same PROCESSES that vervake uses
+
+If you want strong equivalence
+    - then you want identity of OPERATIONS (like processes)
+    - the only way to have an identity of operations 
+        - is for them to be formally equivalent over several systems (GOFI)
+    - if this is true then NO other systems of cognition could work
+
+Why is it so hard comming up for criteria of cognition? (Chiappe and Kalkla)
+    - we have to be able to cut the world out, for categories (cut the mind at its joints)
+    - can't cut nature at its joints
+    - Frame Problem
+        - we dont know what two peices of information 
+        - Relevance problem
+            - does not have systematic import
+            - if this works then theres no such thing as cognative science
+
+
+Systematic Import - inductive generalization
+    - if you learn about some of the members then you can expand that to the rest of the members
+    - like you dont study EVERY rock, but you categorize some of them and know what most of them are like
+    - class has to be homogenuis / essence / stable / intrinsic (belong to the object)
+
+Harnad argues that Green is right
+    - we need a crteria of the cognative
+
+(t1) Toy Modeling (microworlds)
+
+too little (t2) Turing Test (Chinese Room)
+
+(t3) Total Truing Test (description of the goal)
+
+too much (t4) Neuromimetic Level
+
+too strong (t5) Quantum
+
+- there is a deep continuinty that exists between these levels
+- we want to simulate us, ultimatley we want to do cognative science
+    
+- how do we get to the total turing test
+    - doenst tell you how but when youve done it (buy low, sell high)
+    - do total turing test, but WHAT PROCESSSES SHOULD WE BE STUDYING
+
+The Chinese Room Argument
+    - same as we know, guy gets notes and theres a rulebook 
+    - rulebook is so good that it passes the turing test
+    - you can pass the turing test, yet there is no original meaning
+
+System Reply - the room understands chinese not the man
+    - man just memorizes the book
+
+Robot Reply - put him in a moving robot
+
+Virtual Machine Reply - Rachel example (just mumbles chinese and laughs) 
+    - yet rachel is the hardware, even if the software works
+
+1. simulations are multiple realizable
+2. multiple realizable properties are not intrinsic
+3. minds are intrinsic
+
+so minds can never be simulations
+
+intrinsic properties exsist even if there arent any human observers

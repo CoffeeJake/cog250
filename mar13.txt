@@ -1,0 +1,114 @@
+REVIEW
+
+Sci Rev
+Descartes v Hobbs
+    - truth / meaning
+    - normative
+    - purpose
+GOFAI
+    - relevance
+PDP 
+    - pascal
+    - still knowiedge
+Simulation
+    - Turing Test
+Serale
+    - chinese room
+    - virtual machine and its ideas
+MR
+
+=== End of Review ===
+
+Dualism ** (descartes argument)
+    - descartes argument based around mind / matter
+    - Mind: meaning / truth / purpose / qualia / x / x / x (the ones mentioned are the essential properties of mind) (essence)
+    - Matter: x / x / x / x / extended / energy / resistance (same for the matter)(essence)
+        - they are "Essentially Different"
+
+    "How to save the argument"
+        - treat it not as inductive
+        - inference to the best explination (IBE)
+
+    All science works in the idea that many theoeries -> to one thing (ex proto / classical / etc)
+
+Possible that this argument is not technically valid
+    - entire history of AI still hasnt solved the problems hes exposed
+
+Quine - the essential properties are the ones that allow you to do science 
+    - broad / deep generalizations
+
+If dualism is right, then they could not causalty interact
+    - it can only be used as evidence if there was a relation between the two
+
+Most of our experience becomes, inexplainable
+
+
+Body -> nervous -> animal spirits
+(goo bridges the two) (rejected this answer, it did nothing)
+    - ultimentally its still physical stuff 
+Mind
+
+- needed a soultion for the body-mind problem for dualism
+
+Malbranche
+    - occasionalism
+        - mind and body CANT interact
+        - a thought in your mind -> god looks at it -> then your body moves
+        - same happens in reverse (getting hit -> feeling pain)
+        - evoking that something even crazier exists (god)
+
+Leibniz - consider causation for correlation 
+    - look at the REVERSE   
+    - a pre-established harmony
+    - god set up this relation
+
+Correlation vs Causation
+
+=== end of break ===
+
+cartesian dualism / substance dualism
+    - body decays but the mind can somehow exist
+    - presents a difficult existential challenge
+
+Property Dualism
+    - two types of properties
+    - analogy: sodium + chlorine = salt
+    - hydrogen + oxygen = h20 (water)
+        - salt has properties that its parts dont have
+        - this is not a sum of parts?
+        - water cannot exist independently
+
+brain process <+> brain process = mental properties
+
+disanalogy at the core of the analogy, brain processes go from physical to non-physical
+    - the analogy is not an analogy (because of physical to non-physical)
+
+epiphenomalism - a causal effect, but never can cause it
+    - OTHER things can cause it
+
+somethings capacity to ACT (cause things to happen)
+
+elementary property dualism
+    - elemental to our whole framework
+    - explaining time (i know what time is until you ask me)
+    - i dont have to explain them, because elementally they are the same level
+        - (mental vs physical properties)
+
+panpsychism - everything contains mind
+    - pan = all
+
+- arent making any progress preserving dualism
+
+Materialists
+
+Idealism - everything is an illusion
+    - illusions only exists in the mind
+    - if im dreaming of a heavy rock, is there really one
+
+Berkeley 
+Matter is real - primary proper ties are objective
+    - you never know for sure, just 2ndary qualities...we infer from that
+
+To be, is to be preceved
+    - do not exist independant to our aweareneess
+    - stuff happens when im not watching it
