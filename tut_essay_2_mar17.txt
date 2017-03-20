@@ -97,6 +97,7 @@ Counter Arguments:
 NOTE:
     - remember to argue that I am still talking about behaviorism
     - argue that its possible to condition yourslef/other
+    - combination between mucisians / doctors / psychologists
 
 MOVING FORWARD
     - having a more rigours testing suite for music and its effects
@@ -105,3 +106,39 @@ MOVING FORWARD
         - use music on a phone
         - theres already meditations on the phone
     - picking music that fits a culture
+
+
+Outline
+========
+1. Intro
+2. Mental Health Crisi
+    - talk about the crisis in the states as we get older
+    - the stress placed onto caregivers and the youth
+    - society having to deal with these problems
+    - an overuse of sedetives to handle the situation
+3. Music Overview
+    - summary of musics ability
+    - how the structure of music works
+    - talk about vox video / chainsmokers engineering
+4. Music Teaching / Memorizing / Helping Alzheimer's
+    - studies are now being dedicated to help older people
+    - accoridng to a study 1 out of every 5 people will have alzhimers
+5. Mood / Emotion studies with music
+    - misery loves company, improving neutral mood
+    - lack of rigour in music studies
+6. Counter Argument
+    - Music will be needed each time
+    - the results are inconsistnat
+7. Solution for Moving Forward
+    - explaining what can be done for mental health
+    - music studies need to have a framework
+    - many of this research is new
+    - possible AI takeover
+
+8. Conclusion and Re-State
+
+=== Going to Bed ===
+    - talk about connected memories 
+    - more alshimers talk since its like the main focus
+    - aregue that music is essential to our souls or some shit
+    - womb heart beats
