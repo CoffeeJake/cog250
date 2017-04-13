@@ -1,0 +1,81 @@
+lightning -> electricity appears to human beings
+mental state - brain states appear to human being
+    - to a mind, to subjective experiences
+
+appearnece is subjective and therefore not apart of physics / neuroscience
+
+Putnam / Fodar -> mulitple realizability - AI
+    - created computational functionalism
+
+pain states = c fibers firing
+
+Computational Functionalism - mental states == computatoinal states
+    - automatic formal system
+
+Putnam & Fodar are also very big critics of their own theory
+
+functoinally the same, but different!
+
+1 Mental state
+    - can produce infinitly many computational states
+    - 
+
+Cant say mental states are brain states, they can be other kinds of states
+
+propositions + inferences + rules
+
+propositions - logical identity (inference)
+    - logical implications (cognitorial explosive)
+    - cognitive commitmint (changing consisntatly depending on context)
+
+(brown) conditions of application (rules)
+    - "be kind"
+    - relevance is not a deeply logical property
+
+solution: 3rd generation cogsci
+    - methodolgical change - determine mental properties
+        - pick the problem that all our theories are running into
+        - explain RELEVANCE REALIZATION
+
+
+Represnetations = aspectual (cannot do relevance realization)
+    - moduability (cannot explain most of your intullectual behavior)
+
+Can't have a scientific theory of relevance
+    - classes with systematic import (essence) (also need to be homogeous)
+    - stable
+    - intrinsic
+    
+=== break ===
+
+- constatly evolving ones fitness to fit the enviroment
+    - embedded in the relationship between the organism and its enviroment
+
+Evan Thompsen - most important advocate of 3rd generation cogsci
+
+self organization - their exists depends on them and not on us
+    - multiple realizable
+    - existing independant of us
+
+biology is the answer? looking for systems
+
+Dynamic Systems Theory
+
+You can't ask what caused cause...that literally makes no sense (kant)
+
+- self organizing things are circular causation
+    - have to argue agaisnt the line of causation
+
+cause -> event -> actually
+constraint -> condition -> posibility (just as real)
+
+actual = real
+
+Selective Constraint = reduce possibilities
+Enabling Constraint  = increase possibilities
+
+scaricty of resource
+    - kills off organisims
+    - organisims evolution constantly shifting due to changing pressures
+    - variance
+    - virtual engine that is regulating a feedback process (def of dynamic system)
