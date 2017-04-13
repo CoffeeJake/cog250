@@ -1,0 +1,123 @@
+November 14 2016
+=================
+
+Metcalfe - researcher on meta cognition
+    - uses a cognative probe
+        - Strup effect - colored ink (ex word "Blue" in orange ink)(interfernece effect)(due to automatic reading)
+            - in the idea of "no insight" they claim you are just doing a really deep memory search
+        - 1986 Feeling of Knowing (FOK)
+            - ask if we can rememeber something
+            - "Oh i know that" where you sorta feel something about knowing
+                - a GOOD indicator of successful memory search
+                - FOK => memory serach = "insight"
+                    - which means FOK = "insight"
+            - other than FOK being successful, also found it didnt not help solving an insight problem        
+            - provides good evidence that something other than memory search is going on with problem solving
+            - compare insight vs incremental problems 
+
+Metcalfe and Wiebe 1987 (FEELING OF WARMTH)
+============================================
+    - insght problems and non insight problems
+    - and providing feeling of warmth indicators every 10 seconds
+    - 2 predicitons
+        - 1. feeling of warmth would accuratly predict for non-insight
+        - 2. a difference in the curves for feeling of warmth between the two problems
+    - (non-insight - risiing curve) vs (insight - SUDDEN change)
+
+Tausovec (1989, 1994)
+Jousouvec and Bekraceuis (1995)
+    - replicated experiement along with recording heart rate
+        - (non insight - slope line going consistantly) vs (insight - curve that goes much faster towards the end)
+
+Kaplen and Simon (1990) "In Search of Insight"
+===============================================
+    - attempting to explain Insight, but not challenged the *Search Inference Framework*
+        - proposing two search spaces
+            - 1. Primary - first you serach here (in the regular rules)
+            - 2. Meta - then you serach here (then you searech for problem formulation)
+                - the idea is you use Primary, realize its not working, go to Meta for reforming the problem, then solving back at Primary
+            - ***INSIGHT IS WHEN YOU SWITCH SPACES, GO BACK, AND THEN SOVLE IT***
+            - yet they didnt add to the idea of insight just explained when it happened?
+                - used the design stance to make this, Theoretical debate + scientic competition
+                - makes predictions about neuroscience
+        CRTISISMS
+        - its tight spacings, Meta is technically cognative space ***INFINITE REGRESSION***
+        - stuck into a place of saying "its different but not" compared to the gestaltists
+        - its hard to say what they want to say without falling into a contridiction
+        
+Notice Inverience Heuristic (NIH)(Gestaltian in nature)
+=======================================================
+    - across problem formulations, attempt to find a pattern of what isn't changing
+    - good chance of chaning problem fomulation to a more solvable one
+    - changes what you find salient or relevant to fix it
+    - still relies on our ability to ZERO IN on relevant similarities(unexplained ability to do this)
+
+Schooler et Al (1993-1995)
+===========================
+    - (1993) had people solving insight problems, and then people solving non insight problems
+    - in BOTH conditions had people doing concurrent verbilizetion
+        - speak allowed what you are currently doing (like in CTCI)
+        - found it IMPAIRS insight problem vs it doesnt impair non-insight problems
+        - Verbal Overshadowing - where speaking hinders performance(only insight problems)
+        - reporting what you are doing VS what you are actually doing
+        - introspection should NOT have unquestioning authority (saying vs acutally doing)
+            - "What patterns are actually reliaable predictive of them solving the problem"
+            - when people we saying they were using inferential strategies actually predicted success
+            - no correlation between inferential strategies and success on insight problems vs success for infernetial strategies on NON insight problems
+        - Speeded Reasoning View
+            - when people are solving insight problems they are using them SO FAST that they cant be put into awareness or words(like really fast smash movement)
+            
+            CRITSISM
+            - 1. why are we not using it all the time then
+            - 2. computers are completly lacking in insight
+            - could not find the correlation between non-insight vs insight 
+
+
+Critisism:
+    - Verbal Overshadowing - overly simplistic notion of attention (makes sense practically but breaks theoretically)***(BAD)
+
+Then what really is at work? (issue with gestaltists is that they didnt give us any theory)
+
+Individual Differences Methodology
+==================================
+A ==> Task
+A ==> Insight
+
+1. "Perceptual Resturcturing" = given a picture that blurry or pixelated and trying to guess it 
+2. "Field Independance Task" = wheres waldo
+3. "Remote Assostive Task(RAT)" = board magic death, what could be placed in front of all of them? BLACK 
+4. "Category Instance Generation" = standard memory search "Diamond" then you would respond "Ruby, Saphire, etc" 
+
+What they found most predictive was *Perceptual Restructuring* was the best for insight
+It went downward from there
+
+but it went backwards for Noninsight, so Category Instance Generation was the best and Perceptual Restructuring was the worse
+Therefore they are seperate processess (probobly)
+
+Gestaltans just critisze but never generate an alternateive theory
+
+*** Mind is much more than inferences and beliefs ***
+
+Baker Sennett and Ceci (1996)
+==============================
+    - *Cognative Leaping* = sometimes you are just doing things, and then the answer appears(bottom up)
+        - as soon as you can tell me the final picture (as little hints as possible)
+    - good congnative leaper if you can use FEWER cues and still find the right answer
+    - depending on how good you are at being a leaper is how good you are at solving insight problems
+    - points to a process called "Patter Completion"
+        - often have to do multiple things at the same time
+
+===== REVIEW =====
+
+- ability to zero in on relevant information and avoid explosion
+- problem formulation and why its crucial
+- looking at insight, then broken down and looked at again once insight was gained
+- 4 experiemnts to show whats wrong with the Gestalt framework (9 dot, outside the box)(no such thing as insight)
+- conuse necessity vs sufficiency
+- insight is not just standard memory search (feeling of warmth) different patterns between insight vs non insight problems
+- kaplin and simon: came back to defend (SIF) there is insight (2 levels, primary vs meta)(and moving between them to solve the problem at hand) 
+- lots of respect for problem formulation
+- verbalilization - impairs insight problems(verbal overshadowing)
+- people are using strategies but they are so fast that they arent even saying it
+- double disaccociation (things for insight not useful for non insight and vice verse)
+ 2 different kinds of processes
